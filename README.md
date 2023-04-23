@@ -10,5 +10,6 @@ Repo for CS230 Project
 
 
 Link for Project Details: https://docs.google.com/document/d/1jjadc53Z0DxNcrOkxFYAKPgoQLXBbqPUuWe3zEu17xg/edit <br>
-Link for Research Paper:  https://dpc3.compas.cs.stonybrook.edu/pdfs/Bouquet.pdf
- 
+Link for Research Paper:  https://dpc3.compas.cs.stonybrook.edu/pdfs/Bouquet.pdf <br>
+Link for Previous Project Presentation:
+https://www.youtube.com/watch?v=SwNjS9jtsUM 
