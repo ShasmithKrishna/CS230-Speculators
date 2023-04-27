@@ -40,10 +40,10 @@ In l1d - used prefetch_degree based on confidence<br>
 In l2c - implemented complex stride prefetcher<br>
 In llc - implmented ipcp <br>
 # Contributions
-Shasmith Krishna - Code Changes, Presentation
-Vinay Mohan - Data Analysis of Graph, Presentation
-Prahasith Pasnoor - Data Analysis of SPEC, Presentation
-Pragnan Maharshi - Code Changes
+Shasmith Krishna - Code Changes, Presentation <br>
+Vinay Mohan - Data Analysis of Graph, Presentation <br>
+Prahasith Pasnoor - Data Analysis of SPEC, Presentation <br>
+Pragnan Maharshi - Code Changes<br>
 
 
 
